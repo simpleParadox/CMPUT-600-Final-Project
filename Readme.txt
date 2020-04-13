@@ -6,3 +6,5 @@ All the data used in the code is provided in the CMPUT600_data directory. It is 
 own google drive if Google Colab is used.
 
 Additional instructions are also provided in the beggining of code to help facilitate code execution.
+
+All experimental findings are provided in the report: rsaha-report.pdf
